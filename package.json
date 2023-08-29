@@ -1,0 +1,23 @@
+{
+  "name": "prueba_desarrollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablo-man/Node_LangChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "faiss-node": "^0.3.0",
+    "langchain": "^0.0.136",
+    "openai": "^4.3.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
