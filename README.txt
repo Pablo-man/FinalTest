@@ -7,3 +7,4 @@ Requerimientos:
 instalar dependencias de npm: npm install
 Splitear el documento y almacenarlo de forma vectorial: ejecutar load.njs mediante "node load.js"
 Ejecutar el modelo compress para la busqueda, en base al origen de datos vectorial: "node compressModel.js"
+para cambiar el prompt de realizado al modelo: modificar query del archivo compressModel.js
